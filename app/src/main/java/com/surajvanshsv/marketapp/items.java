@@ -9,6 +9,7 @@ public class items {
         this.itemName = itemName;
         this.itemDesc = itemDesc;
     }
+    // getter and setter
 
     public int getItemImg() {
         return itemImg;
