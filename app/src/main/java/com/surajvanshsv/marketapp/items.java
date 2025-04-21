@@ -31,7 +31,8 @@ public class items {
         return itemDesc;
     }
 
-    public void setItemDesc(String itemDesc) {
+    public CharSequence setItemDesc() {
         this.itemDesc = itemDesc;
+        return null;
     }
 }
